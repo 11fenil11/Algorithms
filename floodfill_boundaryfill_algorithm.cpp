@@ -1,3 +1,8 @@
+/*
+Parmar Fenil Milankumar
+Information & Technology
+Vishwakarma Goverment Engineering College 
+*/
 #include<iostream>
 #include<graphics.h>
 using namespace std;
@@ -41,9 +46,6 @@ flood_fill(int x,int y,int newc,int oldc)
 	}	
 }
 
-void ggrid()
-{
-}
 int main()
 {
 	int x,y;
