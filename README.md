@@ -23,5 +23,7 @@ In my bachelors of information and technology at vishwakarma goverment engineeri
 
 11)Finding factorial by iteration
 
+12)Merge Sort
+
 
 
